@@ -1,1 +1,6 @@
+<<<<<<< MCA2403099
+hiiii , this is my first project.
+Akshata mundlik
+=======
 Hello This is my first Git Project
+>>>>>>> main
